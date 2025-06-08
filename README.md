@@ -4,7 +4,7 @@ Random python script I'm working on to automate part of my weekly review process
 
 Goal is to write a script that:
 
-- [ ] parses my todo list
+- [x] parses my todo list
 - [ ] serializes the data
 - [ ] passes it to an AI model
 - [ ] model suggests a schedule for tasks
@@ -12,7 +12,7 @@ Goal is to write a script that:
 
 ## Possible project structure
 
-```
+```text
 things-scheduler/
 │
 ├── read_today.py               # Temporary scratch or CLI runner
@@ -32,4 +32,3 @@ things-scheduler/
 ├── requirements.txt            # List of pip dependencies
 └── README.md                   # Project overview and usage
 ```
-
