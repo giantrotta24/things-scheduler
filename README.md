@@ -11,6 +11,7 @@ Goal is to write a script that:
 
 ## Possible project structure
 
+```
 things-scheduler/
 │
 ├── read_today.py               # Temporary scratch or CLI runner
@@ -29,3 +30,5 @@ things-scheduler/
 │
 ├── requirements.txt            # List of pip dependencies
 └── README.md                   # Project overview and usage
+```
+
