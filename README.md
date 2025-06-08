@@ -17,6 +17,7 @@ Currently, the script:
 ## Tag-based effort mapping
 
 The script recognizes these effort tags and assigns durations:
+
 - `quick n easy` → 30 minutes
 - `heavy lifts` → 90 minutes
 - `evening` → 60 minutes
